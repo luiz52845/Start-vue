@@ -8,4 +8,6 @@
 export default {  
   name: 'HomeView'  
 }  
+
+//teste
 </script>
